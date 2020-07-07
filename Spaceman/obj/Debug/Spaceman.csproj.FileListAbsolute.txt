@@ -1,0 +1,7 @@
+D:\Desktop\Codecademy\Spaceman_Game\Spaceman\Spaceman\obj\Debug\Spaceman.csprojAssemblyReference.cache
+D:\Desktop\Codecademy\Spaceman_Game\Spaceman\Spaceman\obj\Debug\Spaceman.csproj.CoreCompileInputs.cache
+D:\Desktop\Codecademy\Spaceman_Game\Spaceman\Spaceman\bin\Debug\Spaceman.exe.config
+D:\Desktop\Codecademy\Spaceman_Game\Spaceman\Spaceman\bin\Debug\Spaceman.exe
+D:\Desktop\Codecademy\Spaceman_Game\Spaceman\Spaceman\bin\Debug\Spaceman.pdb
+D:\Desktop\Codecademy\Spaceman_Game\Spaceman\Spaceman\obj\Debug\Spaceman.exe
+D:\Desktop\Codecademy\Spaceman_Game\Spaceman\Spaceman\obj\Debug\Spaceman.pdb

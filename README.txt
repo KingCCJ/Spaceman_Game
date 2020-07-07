@@ -1,0 +1,1 @@
+This is a space inspired version of 'hangman' is that played through your console/command line. You play it by guessing one letter at a time what the hidden code word might be. You only get five wrong guesses before you lose the game. All codewords are space and/or abduction-related.
